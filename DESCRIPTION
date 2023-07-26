@@ -1,0 +1,36 @@
+Package: pdfDisc
+Type: Package
+Title: A Tool to Compute the Probability Density Function of Discrete Distributions
+Version: 0.1.0
+Authors@R: 
+  c(person(given = "Rayung",
+           family = "Rinjani",
+           middle = "Sekar",
+           email = "21611115@students.uii.ac.id",
+           role = c("aut", "cre")),
+    person(given = "Diana",
+           family = "Juliyansyah",
+           middle = "Rianti",
+           email = "21611126@students.uii.ac.id",
+           role = "aut"),
+    person(given = "Biantari",
+           family = "Widianti",
+           middle = "Alika",
+           email = "21611128@students.uii.ac.id",
+           role = "aut"),
+    person(given = "Adinda",
+           family = "Utari",
+           middle = "Devi",
+           email = "21611130@students.uii.ac.id",
+           role = "aut"),
+    person(given = "Azra",
+           family = "Khansa",
+           middle = "Fidela",
+           email = "21611137@students.uii.ac.id",
+           role = "aut")
+           )
+Description: A Tool to Compute the Probability Density Function of Discrete Distributions with parameters needed.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
